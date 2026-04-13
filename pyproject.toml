@@ -1,0 +1,11 @@
+[project]
+name = "cta-transit-display"
+version = "0.1.0"
+description = "A real-time CTA train arrival display built with a Raspberry Pi"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyside6==6.8.0.2",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+]
