@@ -33,7 +33,7 @@ See [docs/setup.md](docs/setup.md) for installation, deployment, and kiosk mode.
 ## FAQ
 
 **Q: Why did you build this?**\
-A: It's a love letter to Chicago.
+A: I wanted to know when the next Brown Line is coming while doing my business. Also, it's a love letter to Chicago.
 
 **Q: Is this actually live CTA data?**\
 A: Yes. It updates with real arrival info.
